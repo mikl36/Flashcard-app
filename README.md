@@ -1,5 +1,5 @@
 # mid-term-assignment
-Mid term project for testing and practicing (React). Style: Material UI. For memory using local storage. Should combine package.jsons.
+Mid term project for testing and practicing (React). Style: Material UI. For memory using local storage. Should (fix and) combine package.jsons. Style design is minimal.
 
 # copy the project
 git clone / pull repository
